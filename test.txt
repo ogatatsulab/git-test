@@ -1,4 +1,2 @@
 origin/mainで修正
 subでの変更
-
-subでの修正。
